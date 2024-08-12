@@ -1,1 +1,1 @@
-this is my 1st project og html and css 
+this is my 1st project of html and css 
